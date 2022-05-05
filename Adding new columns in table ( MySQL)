@@ -1,0 +1,2 @@
+alter table emp add column salary smallint(10);
+select * from emp;
