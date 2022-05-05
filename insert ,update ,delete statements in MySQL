@@ -1,0 +1,10 @@
+insert into emp(id,ename,dept,salary)values
+(101,'john','software_engineer',30000);
+insert into emp(id,ename,dept,salary)values
+(102,'rock','mechanical_engineer',35000);
+insert into emp(id,ename,dept,salary)values
+(105,'prasad','big_data',35000);
+insert into emp(id,ename,dept,salary)values
+(100,'chandan','big_data',35000);
+update emp set ename = 'pranay' where id=102;
+delete from emp where id = 101;
