@@ -1,0 +1,6 @@
+CREATE TABLE emp (
+    id INT NOT NULL AUTO_INCREMENT,
+    ename VARCHAR(40),
+    dept VARCHAR(20),
+    PRIMARY KEY (id)
+);
