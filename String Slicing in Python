@@ -1,0 +1,6 @@
+greeting = "Hey ,Programmer "
+name = "Good Morning"
+c = greeting + name
+print(c)
+print (name[3])
+print(name[1:4])
