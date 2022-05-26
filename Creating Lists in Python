@@ -1,0 +1,13 @@
+#lists 
+a =[5,1,49,79,6,89,98]
+print(a)
+print(a[1])
+"""We Can Create Lists With Different itrems """
+listt=[11,"Vinit",21.2,False]
+print(listt)
+
+""" Lists Are Mutable We can Change The Lists """
+names = ['chandan','Prasad','Pranay','Shubham']
+print(names)
+names[3] = "Yuvraj"
+print(names)
