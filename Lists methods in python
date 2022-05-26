@@ -1,0 +1,26 @@
+"""Methods Of Lists"""
+l1 = [45,6,46,60,20,44,89]
+print(l1)
+l1.sort()
+print(l1) 
+"""Reversing the lists"""
+l1 = [45,6,46,60,20,44,89]
+l1.reverse()
+print(l1)
+"""appending the lists"""
+l1 = [45,6,46,60,20,44,89]
+l1.append(666)
+l1.append(564)
+print(l1)
+"""Insert"""
+l1 = [45,6,46,60,20,44,89]
+l1.insert(0,50)
+print(l1)
+"""Pop function Remove the value on index """
+l1 = [45,6,46,60,20,44,89]
+l1.pop(1)
+print(l1)
+"""Remove fonction"""
+l1 = [45,6,46,60,20,44,89]
+l1.remove(45)
+print(l1)
