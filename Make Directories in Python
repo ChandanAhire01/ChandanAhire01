@@ -1,0 +1,5 @@
+sample_dictionary={}
+print(sample_dictionary)
+sample_dictionary={"emp_name":"chandan","emp_age":20,"emp_id":676566}
+sample_dictionary.update({"emp_name":"prany","emp_age":21,"emp_id":111})
+del sample_dictionary["emp_id"]
